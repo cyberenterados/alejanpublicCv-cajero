@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://manuel-garcia-cv.bushyape.chatgpt.site/sitemap.xml
